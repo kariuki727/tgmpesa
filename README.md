@@ -49,9 +49,5 @@ Deploy instantly to your favorite platform:
 
 ---
 
-## 🚀 Getting Started
+#🚀 Sponsored by [Briceka Enterprise](https://briceka.com/donate)
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/kariuki727/tmt-premium-bot.git
-cd telegram-mpesa-membership-bot
