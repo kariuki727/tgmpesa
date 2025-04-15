@@ -1,2 +1,7 @@
-# tgmpesa
-Telegram Membership Bot via Mpesa Daraja Api
+# TMT Premium Bot
+
+Telegram subscription bot with Mpesa Daraja API.
+
+- Node.js
+- Telegraf
+- Mpesa STK Push
