@@ -4,7 +4,7 @@ A powerful Telegram bot that manages paid access to private channels and groups 
 
 > 🔐 Automate memberships, accept payments via M-Pesa, and auto-remove expired users.
 
----
+3---
 
 ## ⚙️ Features
 
@@ -16,6 +16,22 @@ A powerful Telegram bot that manages paid access to private channels and groups 
 - 🚪 Auto-remove users when their membership expires
 
 ---
+## Environment Variables
+TELEGRAM_BOT_TOKEN=xxxxxx
+BOT_ADMIN_PASSWORD=secret_pass
+
+# M-Pesa
+MPESA_TYPE=paybill_or_till
+MPESA_CONSUMER_KEY=xxx
+MPESA_CONSUMER_SECRET=xxx
+MPESA_PASSKEY=xxx
+MPESA_SHORTCODE=xxxxx
+MPESA_STORE_NUMBER=xxxxx
+MPESA_SHORTCODE_TYPE=paybill_or_till
+
+# Stars Payments (if required)
+TELEGRAM_PAYMENT_PROVIDER_TOKEN=xxx
+
 
 ## 📦 Live Deployment
 
