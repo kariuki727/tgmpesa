@@ -18,15 +18,22 @@ A powerful Telegram bot that manages paid access to private channels and groups 
 ---
 ## Environment Variables
 TELEGRAM_BOT_TOKEN=xxxxxx
+
 BOT_ADMIN_PASSWORD=secret_pass
 
 # M-Pesa
 MPESA_TYPE=paybill_or_till
+
 MPESA_CONSUMER_KEY=xxx
+
 MPESA_CONSUMER_SECRET=xxx
+
 MPESA_PASSKEY=xxx
+
 MPESA_SHORTCODE=xxxxx
+
 MPESA_STORE_NUMBER=xxxxx
+
 MPESA_SHORTCODE_TYPE=paybill_or_till
 
 # Stars Payments (if required)
